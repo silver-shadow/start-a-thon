@@ -8,3 +8,5 @@ How to run:
 3. Create a Pinecone account and create an index
 4. Run embedder.py with your own API keys and index name
 5. Run app.py with your own API keys and index name
+
+[![silver-shadow's GitHub | Languages Over Time](https://stats.quine.sh/silver-shadow/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=silver-shadow)
