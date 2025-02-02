@@ -11,8 +11,8 @@ import os
 import timeit
 import sys
 load_dotenv()
-PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY','f1769a09-e6c7-49e3-89c4-c1ba874265dd')
-PINECONE_API_ENV=os.environ.get('PINECONE_API_ENV', 'asia-southeast1-gcp-free')
+PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY','your_pinecone_api_key')
+PINECONE_API_ENV=os.environ.get('PINECONE_API_ENV', 'your_pinecone_api_env')
 #or for index "income"
 #PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY','9013a54a-3a33-40df-a8b2-6a069cd271f5')
 #PINECONE_API_ENV=os.environ.get('PINECONE_API_ENV', 'gcp-starter')
